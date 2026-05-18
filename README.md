@@ -80,7 +80,3 @@ thì hệ thống sẽ:
 Mục đích:
 - tránh thú cưng ăn trùng bữa
 
-
-
-```cpp
-delay()
